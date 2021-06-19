@@ -2,6 +2,9 @@
 # IIC2552 - Taller de Programación Avanzada
 ## 2019-1
 
+Web site
+https://programacioncompetitivapuc.github.io/IIC2552-2021-1/resources/cpp
+
 # Índice
 * [Introducción](#introducci%C3%B3n)
 * [Información Básica](#informaci%C3%B3n-b%C3%A1sica)
